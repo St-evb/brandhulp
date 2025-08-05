@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #fff3f3;
+    color: #333;
+}
+h1 {
+    color: #d32f2f;
+}
+ol {
+    font-size: 1.2em;
+}
